@@ -15,4 +15,3 @@ Following reflection upon handing this assignment in, I realize that I am not re
 
 ## Final Product
 [Video Link](https://drive.google.com/file/d/1mj-czG9is8FGnDlybyi9uRmTBoNbsRGD/view)
-[GitHub Repository](https://github.com/jessicamdittrich/CHG-JD062422)
