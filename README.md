@@ -14,4 +14,5 @@ This was a hard assignment. I had trouble even understanding what I was doing ha
 Following reflection upon handing this assignment in, I realize that I am not registering back-end that well. There's a lot more studying that needs to go into this but not enough time. It's very discouraging not being able to finish this assignment and the last few.
 
 ## Final Product
-[GitHub repository](https://github.com/jessicamdittrich/CHG-JD062422)
+[Video Link](https://drive.google.com/file/d/1mj-czG9is8FGnDlybyi9uRmTBoNbsRGD/view)
+[GitHub Repository](https://github.com/jessicamdittrich/CHG-JD062422)
